@@ -1,0 +1,2 @@
+steps:
+    -uses: actions/install-timer@develop
